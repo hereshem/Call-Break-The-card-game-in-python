@@ -1,8 +1,8 @@
 # Callbreak - The Card Game
 
-![](play_game.png)
+![Call Break the card game in python explained](play_game.jpg)
 
-First of all, lets find out the problem steps for playing the card game as in [Callbreak](http://locomotion.in/callbreak/) rule and [Spades](https://www.pagat.com/auctionwhist/spades.html) rule for playing game.
+First of all, lets find out the problem steps for playing the card game as in [Call Break](http://locomotion.in/callbreak/) rule and [Spades](https://www.pagat.com/auctionwhist/spades.html) rule for playing game.
 
 - The 52 cards are initialized in the deck
 - Those cards are shuffled randomly in deck
@@ -19,6 +19,6 @@ But here we will consider some terms and write limitations for the card game to 
 - In case of same higher number card, the symbol winner card is evaluated in the order “Spades”, “Hearts”, “Diamonds” and “Clubs”
 - Total score is evaluated in the end of 13 rounds
 
-More details are provided in the website [https://aitoml.com/machine-learning/call-break-the-card-game-python-project-explained/]()
+More details are provided in the website [https://aitoml.com/machine-learning/call-break-the-card-game-python-project-explained/](https://aitoml.com/machine-learning/call-break-the-card-game-python-project-explained/)
 
 Happy Coding !!!
